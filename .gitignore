@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+workspace.xml
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# ML/DL large files
+*.pth
+*.pt
+*.onnx
+*.bin
+*.h5
+*.ckpt
+*.model
+*.weights
+*.pkl
+*.pickle
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data
+data/
+outputs/
+logs/
+.env
